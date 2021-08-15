@@ -24,8 +24,8 @@
       <div class="header">
         <div class="header-left">
           <div class="name">
-            <h1 class="first-name">KAMAL</h1>
-            <h1 class="last-name">TEJA</h1>
+            <h1 class="first-name">ALISHA</h1>
+            <h1 class="last-name">MATHUR</h1>
           </div>
         </div>
         <div class="header-right">
